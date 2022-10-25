@@ -1,4 +1,6 @@
 
+# TODO what is y???
+# TODO use a matrix to represent system of eqns
 # TODO change this to use cupy for gpu compute
 class RK4(object):
     def __init__(self, *functions):
