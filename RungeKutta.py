@@ -1,3 +1,5 @@
+
+# TODO change this to use cupy for gpu compute
 class RK4(object):
     def __init__(self, *functions):
         self.f = functions
