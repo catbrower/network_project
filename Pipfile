@@ -13,6 +13,9 @@ jupyter = "*"
 pyzmq = "*"
 notebook = "*"
 ipython = "*"
+scipy = "*"
+networkx = "*"
+pymongo = "*"
 
 [dev-packages]
 notebook = "*"
